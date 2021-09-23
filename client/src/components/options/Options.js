@@ -1,5 +1,5 @@
 import React, { useState, useContext, useEffect, useRef } from "react";
-import { Input, Button, Tooltip, Modal, message } from "antd";
+import { Input, Button, Tooltip, Modal, message } from "antd/dist/antd.css";
 import Phone from "../../assests/phone.gif";
 import Teams from "../../assests/teams.mp3";
 import * as classes from "./Options.module.css";
