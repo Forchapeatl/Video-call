@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from "react";
 import VideoContext from "./VideoContext";
 import { io } from "socket.io-client";
 import Peer from "simple-peer";
-import { message } from "antd";
+import { message } from "antd/dist/antd.css";
 
 const URL = "https://fathomless-tundra-67025.herokuapp.com/";
 // const SERVER_URL = "http://localhost:5000/";
