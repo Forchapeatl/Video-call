@@ -47,8 +47,8 @@ const Options = () => {
 
   useEffect(() => {
     if (isModalVisible) {
-      Audio?.current?.play();
-    } else Audio?.current?.pause();
+     return  Audio?.current?.play();
+    } else   return Audio?.current?.pause();
   }, [isModalVisible]);
 
   const showModal = (showVal) => {
