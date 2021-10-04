@@ -24,7 +24,7 @@
     "react-dom": "^16.10.2",
     "react-scripts": "3.2.0" ,
     "antd":"4.16.13",
-    "font-awesome":"^4.7.0",
+    "font-awesome":"^4.7.0"
     
   }
 }
