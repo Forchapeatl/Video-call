@@ -1,7 +1,7 @@
 import React, { useContext, useEffect, useState, useRef } from "react";
 import VideoContext from "../../context/VideoContext";
 import "./Video.css";
-import { Card, Modal, Button, Input, notification, Avatar } from "antd"
+import { Card, Modal, Button, Input, notification, Avatar } from "antd/dist/antd.css";
 import Man from "../../assests/man.svg";
 import VideoIcon from "../../assests/video.svg";
 import { io } from "socket.io-client";
