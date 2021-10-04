@@ -9,7 +9,7 @@
     "eject": "react-scripts eject",
     "test": "echo \"Error: no test specified\" && exit 1",
     "client": "cd client,
-    "dev": "concurrently \"npm run build\" \"npm run client\" \"netlify deploy\""
+    "dev": "concurrently  \"npm run client\" \"netlify deploy\""
   },
   "keywords": [],
   "author": "",
