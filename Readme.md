@@ -29,7 +29,7 @@ It's also a modern PWA so users can install it on their devices like other nativ
 
 
 ## Installation 
-1-cd Video Call
-2-npm install
-3-npm run start 
-4- open browser to http://localhost:3000 
+- cd Video Call
+- npm install
+- npm run start 
+- open browser to http://localhost:3000 
