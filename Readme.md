@@ -32,4 +32,4 @@ It's also a modern PWA so users can install it on their devices like other nativ
 - cd Video Call
 - npm install
 - npm run start 
-- open browser to http://localhost:3000 
+- open browser to http://localhost:5000 
