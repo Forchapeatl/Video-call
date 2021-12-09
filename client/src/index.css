@@ -19,7 +19,8 @@ body {
   background-color: #00b4dbac !important;
   background: linear-gradient(
     to right,
-    hsl(200, 100%, 40%),
-    hsl(191, 100%, 43%)
+    hsl(120, 60%, 50%),
+    hsl(75, 100%, 45%)
+
   );
 }
